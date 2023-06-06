@@ -1,0 +1,29 @@
+.container {
+  max-width: 970px;
+  background: #111222;
+  position: sticky;
+  color: whitesmoke;
+  z-index: 2000;
+  padding-bottom: 50px;
+}
+
+h4, h4 .text-primary {
+  color: #e6ee9c !important;
+}
+
+.form-control {
+  font-size: 1rem;
+  background-color: rgba(0,0,0,.2);
+  color: whitesmoke;
+  border: 1px solid #656;
+}
+
+.input-group-text {
+  background-color: rgba(0,0,0,.5);
+  color: whitesmoke;
+  border-color: rgb(82, 71, 82);
+}
+
+.list-group-item {
+  background-color: whitesmoke;
+}
